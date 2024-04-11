@@ -1,5 +1,5 @@
 # Hi there! 👋
-## I am Shota Oniani, an aspiring software developer
+## I am Shota Oniani, an aspiring computer scientist
 I am currently learning C++, HTML/CSS/JS, Python, C#, along with the fundamentals of CS.
 
 ## My completed projects:
