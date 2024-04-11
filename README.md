@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there! 👋
+## I am Shota Oniani, an aspiring software developer
+I am currently learning C++, HTML/CSS/JS, Python, C#, along with the fundamentals of CS.
+
+## My completed projects:
+- [Stopwatch](https://onianis.github.io/stopwatch) ⏱️
+- [Digital Clock](https://onianis.github.io/digital_clock) 🕛
+- [Password Generator](https://onianis.github.io/password_generator) 🔒
+- [Dice Roller](https://onianis.github.io/dice_roller) 🎲
+- [Temperature converter](https://onianis.github.io/temperature_converter) 🌡️
 
 <!--
 **onianis/onianis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
