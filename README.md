@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi there! 👋<br>I am Shota Oniani, an aspiring computer scientist<br>I am currently learning C++, HTML/CSS/JS, Python, C#, along with the fundamentals of CS.
 
 
