@@ -1,10 +1,14 @@
 
 # lavendermerchant
-I am __Shota Oniani__. A SOC Analyst / Information Security Officer in the works. Right now, I am actively working on finishing my Computer Science degree from the University of Tübingen, as well as on designing and building field-relevant projects to demonstrate the abilities I gain on my own.
+I am __Shota Oniani__. A SOC Analyst / Information Security Officer in the works. Right now, I am working through my Computer Science degree at the University of Tübingen, as well as on designing and building field-relevant projects to demonstrate the abilities I gain on my own.
 
-I am active on TryHackMe! Feel free to check my profile out at the link in my Socials.
+I am active on TryHackMe, and working on getting my CompTIA S+! Feel free to check me out on THM with the link in my Socials.
 
-My current project (that is available on GitHub) is **keymerchant** - the Python Keylogger. Check it out in my repos!
+My current / active projects (that are available on GitHub) are:
+- **keymerchant** — The sleek, feature-rich Python Keylogger
+- **T.A.R.S.** — The (soon-to-be) comprehensive vulnerability scanner
+
+You can check them both out in my repos!
 
 
 # languages i speak:
