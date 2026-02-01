@@ -1,20 +1,18 @@
 
 # lavendermerchant
-I am __Shota Oniani__. A SOC Analyst / Information Security Officer in the works. Right now, I am working through my Computer Science degree at the University of Tübingen, as well as on designing and building field-relevant projects to demonstrate the abilities I gain on my own.
+Hi. 
+I am __Shota Oniani__. An AI Security Engineer in the works. Right now, I am working through my Computer Science degree at the University of Tübingen. 
+I devise and build field-relevant projects to demonstrate the abilities I gain on my own.
 
-I am active on TryHackMe, and working on getting my CompTIA S+! Feel free to check me out on THM with the link in my Socials.
+We live in turbulent, yet exciting times.
+The least we can do is make sure that the emerging systems others are creating are secure and trustworthy.
 
-My current / active projects (that are available on GitHub) are:
-- **keymerchant** — The sleek, feature-rich Python Keylogger
-- **T.A.R.S.** — The (soon-to-be) comprehensive vulnerability scanner
-
-You can check them both out in my repos!
-
+_proud to be human._
 _6209._
 
 
 # languages i speak:
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#), [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#), [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#), [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#), [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#), [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#), [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#), [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#), [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#), [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#), [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#), [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#), [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#), [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#), [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 
 # (some of the) things i (know how to) use:
 _in no particular order_
